@@ -44,7 +44,7 @@ Make sure you have Rust installed on your system. If not, you can download it fr
     ```
 
 
-Now you can run the game from any terminal window by simply typing its name `guessing_game`, thanks to its location in `/usr/local/bin`.
+Now you can manage your tasks from any terminal window by simply typing its name `todo`, thanks to its location in `/usr/local/bin`.
 
 ## Usage
 - **Adding a Task:**
@@ -65,6 +65,26 @@ Now you can run the game from any terminal window by simply typing its name `gue
     todo done 2 4 5
     ```
 
+<hr>
+
+## Command-Line-ToDo in Action:
+
+### Add Task in ToDo-Journal.
+![Add-Task](img/Add.png)
+
+### List Task.
+![List-Task](img/List.png)
+
+### Complete Task.
+![Done-Task](img/Done.png)
+
+### Error-Handling in ToDo-Journal.
+![Error-Handling](img/Error_Handling.png)
+
+### Version & Help
+![Version & Help](img/Version_Help.png)
+
+<hr>
 
 ## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests.
