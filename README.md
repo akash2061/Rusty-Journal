@@ -17,6 +17,8 @@ Make sure you have Rust installed on your system. If not, you can download it fr
 1. Clone this repository:
     ```bash
     git clone https://github.com/akash2061/RUST-CLI-ToDo-List.git
+    ```
+    ```bash
     cd RUST-CLI-ToDo-List
     ```
 
