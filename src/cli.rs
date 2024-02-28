@@ -3,14 +3,17 @@ use structopt::StructOpt;
 
 #[derive(Debug, StructOpt)]
 pub enum Action {
+    #[structopt(about = "Add a new task to the to-do list")]
     Add {
-        #[structopt()]
+        #[structopt(help = "Task description")]
         task: String,
     },
+    #[structopt(about = "Mark task(s) as done")]
     Done {
-        #[structopt()]
+        #[structopt(help = "Position of the task(s) to mark as done")]
         position: Vec<usize>,
     },
+    #[structopt(about = "List all tasks")]
     List,
 }
 
