@@ -34,7 +34,7 @@ Make sure you have Rust installed on your system. If not, you can download it fr
 
 ### Or Use Released Version
 
-1. Go to the [Releases](https://github.com/akash2061/RUST-CLI-ToDo-List/releases) page or Directly [Download](https://github.com/akash2061/RUST-CLI-ToDo-List/releases/download/v0.1.0/todo).
+1. Go to the [Releases](https://github.com/akash2061/RUST-CLI-ToDo-List/releases) page or Directly [Download](https://github.com/akash2061/RUST-CLI-ToDo-List/releases/download/v0.1.0/todo) the latest version.
 2. Download the latest release for your platform.
 3. Open your terminal and navigate to the folder where the executable is downloaded.
 4. Copy the executable to the `/usr/local/bin` directory using the following command:
@@ -46,7 +46,7 @@ Make sure you have Rust installed on your system. If not, you can download it fr
 
 Now you can manage your tasks from any terminal window by simply typing its name `todo`, thanks to its location in `/usr/local/bin`.
 
-## Usage
+## Usage for v0.1.0 {Older Version.}
 - **Adding a Task:**
     ```bash
     todo add "Buy groceries"
