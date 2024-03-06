@@ -5,7 +5,9 @@ mod cli;
 mod task;
 
 use cli::{Action, CommandLineArgs};
-use task::Task;
+use task::{add_task, complete_task, list_tasks, Task};
+
+use crate::task::delete_task;
 
 fn find_default_journal_file() -> Option<std::path::PathBuf> {
     home::home_dir().map(|mut path| {
@@ -26,15 +28,23 @@ fn main() -> Result<()> {
 
     match action {
         Action::Add { task } => {
-            task::add_task(journal_file.clone(), Task::new(task))?;
+            add_task(&journal_file, Task::new(task))?;
             println!("Task added successfully.");
         }
-        Action::List => task::list_tasks(journal_file.clone())?,
+        Action::List => list_tasks(&journal_file)?,
         Action::Done { mut position } => {
             position.sort_by(|a, b| b.cmp(a));
+            let cloned_position = position.clone();
+            complete_task(&journal_file, cloned_position)?;
             for pos in position {
-                task::complete_task(journal_file.clone(), pos)?;
-                println!("Task at position {} completed successfully.", pos);
+                println!("Task at position {} marked as complete.", pos);
+            }
+        }
+        Action::Delete { mut position } => {
+            position.sort_by(|a, b| b.cmp(a));
+            for pos in position {
+                delete_task(journal_file.clone(), pos)?;
+                println!("Task at position {} deleted.", pos);
             }
         }
     }
