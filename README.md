@@ -29,7 +29,7 @@ Make sure you have Rust installed on your system. If not, you can download it fr
     git clone https://github.com/akash2061/Rusty-Journal.git
     ```
     ```bash
-    cd RUST-CLI-ToDo-List
+    cd Rusty-Journal
     ```
 
 2. Build the project:
