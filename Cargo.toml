@@ -1,8 +1,14 @@
 [package]
 name = "todo"
-version = "0.2.0"
+version = "0.2.1"
 edition = "2021"
 authors = ["akash2061 <aakashsoni8781@gmail.com>"]
+license-file = "LICENSE"
+readme = "README.md"
+description = "A command line to-do app written in Rust."
+repository = "https://github.com/akash2061/RUST-CLI-ToDo-List"
+keywords = ["cli", "ToDo"]
+categories = ["accessibility", "command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
