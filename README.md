@@ -1,12 +1,12 @@
 ![Banner](./img/Rusty_Journal.png)
 [![akash2061](https://custom-icon-badges.demolab.com/badge/made%20by%20-Akash%20Soni-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/akash2061)
-![GitHub License](https://img.shields.io/github/license/akash2061/RUST-CLI-ToDo-List?style=plastic&color=blue)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/akash2061/RUST-CLI-ToDo-List/total?style=plastic)
+![GitHub License](https://img.shields.io/github/license/akash2061/Rusty-Journal?style=plastic&color=blue)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/akash2061/Rusty-Journal/total?style=plastic)
 ![Maintenance](https://img.shields.io/badge/maintenance-actively--maintained-brightgreen?style=plastic)
 
-![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/akash2061/RUST-CLI-ToDo-List/v0.1.0/total?style=plastic&label=v0.1.0&color=azure)
-![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/akash2061/RUST-CLI-ToDo-List/v0.1.0/total?style=plastic&label=v0.2.0&color=azure)
-![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/akash2061/RUST-CLI-ToDo-List/v0.2.1/total?style=plastic&label=v0.2.1&color=azure)
+![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/akash2061/Rusty-Journal/v0.1.0/total?style=plastic&label=v0.1.0&color=azure)
+![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/akash2061/Rusty-Journal/v0.1.0/total?style=plastic&label=v0.2.0&color=azure)
+![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/akash2061/Rusty-Journal/v0.2.1/total?style=plastic&label=v0.2.1&color=azure)
 
 # Rust ToDo List 🦀
 
@@ -26,7 +26,7 @@ Make sure you have Rust installed on your system. If not, you can download it fr
 ### Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/akash2061/RUST-CLI-ToDo-List.git
+    git clone https://github.com/akash2061/Rusty-Journal.git
     ```
     ```bash
     cd RUST-CLI-ToDo-List
@@ -44,7 +44,7 @@ Make sure you have Rust installed on your system. If not, you can download it fr
 
 ### Or Use Released Version
 
-1. Go to the [Releases](https://github.com/akash2061/RUST-CLI-ToDo-List/releases) page or Directly [Download](https://github.com/akash2061/RUST-CLI-ToDo-List/releases/download/v0.2.1/todo) the latest version.
+1. Go to the [Releases](https://github.com/akash2061/Rusty-Journal/releases) page or Directly [Download](https://github.com/akash2061/Rusty-Journal/releases/download/v0.2.1/todo) the latest version.
 2. Download the latest release for your platform.
 3. Open your terminal and navigate to the folder where the executable is downloaded.
 4. Copy the executable to the `/usr/local/bin` directory using the following command:
