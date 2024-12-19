@@ -1,6 +1,16 @@
+![Banner](./img/Rusty_Journal.png)
+[![akash2061](https://custom-icon-badges.demolab.com/badge/made%20by%20-Akash%20Soni-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/akash2061)
+![GitHub License](https://img.shields.io/github/license/akash2061/RUST-CLI-ToDo-List?style=plastic&color=blue)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/akash2061/RUST-CLI-ToDo-List/total?style=plastic)
+![Maintenance](https://img.shields.io/badge/maintenance-actively--maintained-brightgreen?style=plastic)
+
+![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/akash2061/RUST-CLI-ToDo-List/v0.1.0/total?style=plastic&label=v0.1.0&color=azure)
+![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/akash2061/RUST-CLI-ToDo-List/v0.1.0/total?style=plastic&label=v0.2.0&color=azure)
+![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/akash2061/RUST-CLI-ToDo-List/v0.2.1/total?style=plastic&label=v0.2.1&color=azure)
+
 # Rust ToDo List 🦀
 
-## Overview
+## Overviews
 Welcome to the Command Line ToDo List project written in Rust! This simple and efficient ToDo list application allows you to manage your tasks directly from the command line interface.
 
 ## Features
