@@ -8,7 +8,7 @@
 ![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/akash2061/Rusty-Journal/v0.1.0/total?style=plastic&label=v0.2.0&color=azure)
 ![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/akash2061/Rusty-Journal/v0.2.1/total?style=plastic&label=v0.2.1&color=azure)
 
-# Rust ToDo List 🦀
+# Rusty-Journal - A CLI ToDo List 🦀
 
 ## Overviews
 Welcome to the Command Line ToDo List project written in Rust! This simple and efficient ToDo list application allows you to manage your tasks directly from the command line interface.
