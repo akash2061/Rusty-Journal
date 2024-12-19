@@ -6,7 +6,7 @@ authors = ["akash2061 <aakashsoni8781@gmail.com>"]
 license-file = "LICENSE"
 readme = "README.md"
 description = "A command line to-do app written in Rust."
-repository = "https://github.com/akash2061/RUST-CLI-ToDo-List"
+repository = "https://github.com/akash2061/Rusty-Journal"
 keywords = ["cli", "ToDo"]
 categories = ["accessibility", "command-line-utilities"]
 
