@@ -26,7 +26,7 @@ pub enum Action {
 #[structopt(
     name = "Rusty Journal",
     about = "A command line to-do app written in Rust",
-    author = "akash2061."
+    author = "akash2061"
 )]
 pub struct CommandLineArgs {
     #[structopt(subcommand)]
