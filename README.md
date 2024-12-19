@@ -38,9 +38,14 @@ Make sure you have Rust installed on your system. If not, you can download it fr
 2. Download the latest release for your platform.
 3. Open your terminal and navigate to the folder where the executable is downloaded.
 4. Copy the executable to the `/usr/local/bin` directory using the following command:
-
     ```bash
     sudo cp ./todo /usr/local/bin/
+    ```
+
+    > Note: Important & Final Step:
+5. Give the executable permission to run using the following command:
+    ```bash
+    sudo chmod +x /usr/local/bin/todo
     ```
 
 
