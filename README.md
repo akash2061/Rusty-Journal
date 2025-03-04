@@ -3,6 +3,7 @@
 ![GitHub License](https://img.shields.io/github/license/akash2061/Rusty-Journal?style=plastic&color=blue)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/akash2061/Rusty-Journal/total?style=plastic)
 ![Maintenance](https://img.shields.io/badge/maintenance-actively--maintained-brightgreen?style=plastic)
+[![Rust](https://github.com/akash2061/Rusty-Journal/actions/workflows/rust.yml/badge.svg)](https://github.com/akash2061/Rusty-Journal/actions/workflows/rust.yml)
 
 ![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/akash2061/Rusty-Journal/v0.1.0/total?style=plastic&label=v0.1.0&color=azure)
 ![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/akash2061/Rusty-Journal/v0.1.0/total?style=plastic&label=v0.2.0&color=azure)
